@@ -15,7 +15,7 @@ Tips
 Import pylite :
 
 ```python
-from pylite import Pylite
+from pylite.simplite import Pylite
 ```
 
 Create a new database or open an existing database :
